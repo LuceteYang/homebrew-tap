@@ -7,7 +7,7 @@ cask "pika-token-bar" do
   desc "Menu bar companion that hatches Generation 1 Pokemon from your AI coding tokens"
   homepage "https://github.com/LuceteYang/PikaTokenBar"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "PikaTokenBar.app"
 
