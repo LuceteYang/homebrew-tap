@@ -1,6 +1,6 @@
 cask "pika-token-bar" do
-  version "1.0.2"
-  sha256 "578e83c8925e997e07e8b08269b707373e789dccc4e063325b5d6fdbcb492583"
+  version "1.1.0"
+  sha256 "9238ffbdecfbefabc66c607c8aea875c3a3cfb02fbfb3318372ee2f325ae9667"
 
   url "https://github.com/LuceteYang/PikaTokenBar/releases/download/v#{version}/PikaTokenBar.zip"
   name "PikaTokenBar"
